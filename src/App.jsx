@@ -72,7 +72,7 @@ const projects = [
 const experience = [
   {
     role: 'Software Developer',
-    company: 'Super Kol Commerce Pvt Ltd',
+    company: 'SentinOS',
     period: 'Mar 2026 – Present',
     current: true,
     points: [
