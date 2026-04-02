@@ -161,7 +161,7 @@ function Nav() {
             background: C.accent, color: '#fff', fontWeight: 700, fontSize: 12,
             letterSpacing: 0.3,
           }}
-        >Let's Talk</motion.button>
+        >Contact</motion.button>
       </Magnet>
     </motion.nav>
   );
