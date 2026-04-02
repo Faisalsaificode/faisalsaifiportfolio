@@ -343,7 +343,7 @@ function About() {
           <StaggerReveal delay={0.1}>
             <SpotlightCard style={{ padding: 40 }}>
               <p style={{ fontSize: 17, lineHeight: 2, color: '#9494b0', marginBottom: 24 }}>
-                Software Developer at <strong style={{ color: '#f0f0f5' }}>Super Kol Commerce Pvt Ltd</strong>, building
+                Software Developer at <strong style={{ color: '#f0f0f5' }}>sentinOS</strong>, building
                 data-intensive analytics platforms. From FastAPI microservices and Neo4j knowledge graphs to
                 React frontends with Redux — I architect end-to-end systems that turn complex data into
                 actionable intelligence.
