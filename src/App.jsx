@@ -26,7 +26,7 @@ const skills = {
   ],
   'Cloud & DevOps': [
     { name: 'GCP', pct: 79 }, { name: 'Firebase', pct: 80 },
-    { name: 'Docker', pct: 75 }, { name: 'Pub/Sub', pct: 78 },
+    { name: 'Docker', pct: 75 }, { name: 'Pub/Sub', pct: 78 },{name: 'AWS', pct: 80}
   ],
 };
 
